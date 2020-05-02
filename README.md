@@ -1,8 +1,8 @@
 # Leetcode-May-2020
 Leetcode May 30 Day Challenge 2020 Python Solutions
 - Week 1:
-  - [First Bad Version :](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) : [Solution](Week_1/firstbadversion.py)
-  - []() : [Solution](Week_1/)
+  - [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) : [Solution](Week_1/firstbadversion.py)
+  - [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) : [Solution](Week_1/jewelsandstones.py)
   - []() : [Solution](Week_1/)
   - []() : [Solution](Week_1/)
   - []() : [Solution](Week_1/)
