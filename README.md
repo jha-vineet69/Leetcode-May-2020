@@ -4,7 +4,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) : [Solution](Week_1/firstbadversion.py)
   - [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) : [Solution](Week_1/jewelsandstones.py)
   - [Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) : [Solution](Week_1/ransomnote.py)
-  - []() : [Solution](Week_1/)
+  - [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) : [Solution](Week_1/NumComplement.py)
   - []() : [Solution](Week_1/)
   - []() : [Solution](Week_1/)
   - []() : [Solution](Week_1/)
