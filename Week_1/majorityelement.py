@@ -6,11 +6,10 @@ class Solution:
         for i in nums:
             if i not in maj:
                 maj[i] = 1
+            if maj[i] > lim:
+                return i
             else:
                 maj[i]+= 1
-        for key, value in maj.items():
-            if value > lim:
-                return key
 
 #Time Complexity: O(n)
 #Space Complexity: O(n)
