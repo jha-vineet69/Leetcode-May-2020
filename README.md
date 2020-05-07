@@ -7,7 +7,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) : [Solution](Week_1/NumComplement.py)
   - [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) : [Solution](Week_1/firstUniqueChar.py)
   - [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) : [Solution](Week_1/majorityelement.py)
-  - []() : [Solution](Week_1/)
+  - [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) : [Solution](Week_1/CousinsBinaryTree.py)
 
 - Week 2:
   - []() : [Solution](Week_2/)
