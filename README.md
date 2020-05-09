@@ -11,7 +11,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
 
 - Week 2:
   - [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) : [Solution](Week_2/StraightLine.py)
-  - []() : [Solution](Week_2/)
+  - [Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) : [Solution](Week_2/ValidPerfectSquare.py)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
