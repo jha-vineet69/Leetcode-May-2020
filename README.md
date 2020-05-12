@@ -14,7 +14,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) : [Solution](Week_2/ValidPerfectSquare.py)
   - [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) : [Solution](Week_2/TownJudge.py)
   - [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) : [Solution](Week_2/FloodFill.py)
-  - []() : [Solution](Week_2/)
+  - [Single Element in a Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) : [Solution](Week_2/singleelemsorted.py)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
 
