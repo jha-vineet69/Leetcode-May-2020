@@ -15,7 +15,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) : [Solution](Week_2/TownJudge.py)
   - [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) : [Solution](Week_2/FloodFill.py)
   - [Single Element in a Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) : [Solution](Week_2/singleelemsorted.py)
-  - []() : [Solution](Week_2/)
+  - [Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) : [Solution](Week_2/removeKDigits.py)
   - []() : [Solution](Week_2/)
 
 - Week 3:
