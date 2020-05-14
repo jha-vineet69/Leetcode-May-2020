@@ -16,7 +16,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) : [Solution](Week_2/FloodFill.py)
   - [Single Element in a Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) : [Solution](Week_2/singleelemsorted.py)
   - [Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) : [Solution](Week_2/removeKDigits.py)
-  - []() : [Solution](Week_2/)
+  - [Implement Trie (Prefix Tree)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/) : [Solution](Week_2/Trie.py)
 
 - Week 3:
   - []() : [Solution](Week_3/)
