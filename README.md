@@ -19,7 +19,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Implement Trie (Prefix Tree)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/) : [Solution](Week_2/Trie.py)
 
 - Week 3:
-  - []() : [Solution](Week_3/)
+  - [Maximum Sum Circular Subarray](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/) : [Solution](Week_3/MaxSumCircArr.py)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
