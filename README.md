@@ -24,7 +24,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Find all Anagrams in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) : [Solution](Week_3/anagrams.py)
   - [Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) : [Solution](Week_3/Permutations.py)
   - [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) : [Solution](Week_3/StockSpan.py)
-  - []() : [Solution](Week_3/)
+  - [Kth Smallest Element in a BST](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) : [Solution](Week_3/KsmallBST.py)
   - []() : [Solution](Week_3/)
 
 - Week 4:
