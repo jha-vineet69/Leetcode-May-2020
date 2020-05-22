@@ -28,7 +28,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Count Square Submatrices with All Ones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) : [Solution](Week_3/SquareSubMatrices.py)
 
 - Week 4:
-  - []() : [Solution](Week_4/)
+  - [Sort Characters By Frequency](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) : [Solution](Week_4/SortCharFreq.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
