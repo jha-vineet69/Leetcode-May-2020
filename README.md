@@ -32,7 +32,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Interval List Intersections](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) : [Solution](Week_4/IntervalIntersections.py)
   - [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) : [Solution](https://github.com/jha-vineet69/Leetcode-April-2020/blob/master/Week_3/BSTFromPreorder.py)
   - [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) : [Solution](Week_4/UncrossedLines.py)
-  - []() : [Solution](Week_4/)
+  - [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) : [Solution](https://github.com/jha-vineet69/Leetcode-April-2020/blob/master/Week_2/ContiguousArray.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)  
 
