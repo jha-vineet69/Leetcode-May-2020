@@ -33,7 +33,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) : [Solution](https://github.com/jha-vineet69/Leetcode-April-2020/blob/master/Week_3/BSTFromPreorder.py)
   - [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) : [Solution](Week_4/UncrossedLines.py)
   - [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) : [Solution](https://github.com/jha-vineet69/Leetcode-April-2020/blob/master/Week_2/ContiguousArray.py)
-  - []() : [Solution](Week_4/)
+  - [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) : [Solution](Week_4/PossibleBipartite.py)
   - []() : [Solution](Week_4/)  
 
 - Week 5:
