@@ -34,7 +34,7 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) : [Solution](Week_4/UncrossedLines.py)
   - [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) : [Solution](https://github.com/jha-vineet69/Leetcode-April-2020/blob/master/Week_2/ContiguousArray.py)
   - [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) : [Solution](Week_4/PossibleBipartite.py)
-  - []() : [Solution](Week_4/)  
+  - [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) : [Solution](Week_4/CountingBits.py)  
 
 - Week 5:
   - []() : [Solution](Week_5/)
