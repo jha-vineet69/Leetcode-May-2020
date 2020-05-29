@@ -37,5 +37,5 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
   - [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/) : [Solution](Week_4/CountingBits.py)  
 
 - Week 5:
-  - []() : [Solution](Week_5/)
+  - [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) : [Solution](Week_5/CourseSchedule.py)
   - []() : [Solution](Week_5/)
