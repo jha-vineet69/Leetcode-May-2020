@@ -38,4 +38,4 @@ Leetcode May 30 Day Challenge 2020 Python Solutions
 
 - Week 5:
   - [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/) : [Solution](Week_5/CourseSchedule.py)
-  - []() : [Solution](Week_5/)
+  - [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/) : [Solution](Week_5/KClosest.py)
